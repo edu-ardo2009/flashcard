@@ -97,7 +97,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('stardew.jpg'), no-repeat cover;
+        background: url(melhortime.jpg'), no-repeat cover;
     }
 
     .cartao {
